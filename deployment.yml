@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: myntra
-          image: 855758428609.dkr.ecr.ap-south-1.amazonaws.com/b12:78b2656395d44128ccfe14d7167c8470133d02f7
+          image: 855758428609.dkr.ecr.ap-south-1.amazonaws.com/b12:3adbc39ebd762f32f98869b32fd28829dd5ac1ca
           ports:
             - containerPort: 3000
